@@ -16,7 +16,7 @@ cd docker-para-kali-linux
 ./install.sh
 ```
 
-Con esto, debería de estar listo.
+Con esto, debería de estar listo. En algunos casos, es necesario reiniciar el computador.
 
 ### Nota
 Este repositorio es del 15 de septiembre del 2023. Puede de que se necesite actualizar los paquetes a medida de que pase el tiempo. Significa que, tarde o temprano, esta instalación será opsoleta.
